@@ -1,2 +1,2 @@
 # Team_UdeA_Mintic
-Proyecto colaborativo, bajo la metodología ágil Scrum
+<div aling=center>Proyecto colaborativo, bajo la metodología ágil Scrum</div>

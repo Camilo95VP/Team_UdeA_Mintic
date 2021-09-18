@@ -2,6 +2,7 @@
 <div aling="center">
 Proyecto colaborativo, bajo la metodología ágil Scrum
     </br>
+    </br>
     → Estefanía Cardona Castro | Administrador de BD-Desarrollador
     </br>
     → Santiago Sanchez Grisales | Analista-Desarrollador

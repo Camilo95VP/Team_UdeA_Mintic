@@ -10,4 +10,6 @@ Proyecto colaborativo, bajo la metodología ágil Scrum
     → Esteban Bernal Amaya | Product Owner-Desarrollador
     </br>
     → Juan Camilo Castañeda Castro | Scrum Master-Desarrollador
+    </br>
+    → Ricardo Andres Mantilla Sanchez | Analista-Desarrollador
 </div>

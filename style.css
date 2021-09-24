@@ -1,0 +1,29 @@
+body{
+    background-color: #E0E5EC !important;
+    font-family: cursive !important;
+}
+.cont{
+    cursor: pointer;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E0E5EC;
+    color: rgb(93, 93, 93);
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 200px;
+    text-align: center;
+    box-shadow: 9px 9px 16px rgb(163 177 198 / 60%), -9px -9px 16px rgb(255 255 255 / 50%);
+}
+.cont h1{
+    font-size: 25px;
+}
+.btn{
+    width: 25%;
+    margin: 0 auto;
+}
+.cont:hover{
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgb(94 104 121 / 69%);
+}
